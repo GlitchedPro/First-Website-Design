@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+
+html, body {
+  height: 100%;
+  width: 99%;
+  font-family: 'Teko', sans-serif;
+  background-color: black;
+}
+
+.navbar {
+  font-size: 50px;
+  background-color: #1e1e1e;
+  position: 999;
+  overflow: hidden;
+}
+
+.navbar a {
+  text-align: bottom;
+  padding: 25px 50px;
+  float: left;
+}
+
+#Name {
+  background: linear-gradient(135deg, rgba(255,0,0,1) 0%, rgba(255,0,0,1) 0%, rgba(210,25,210,1) 0%,
+  rgba(0,255,240,1) 50%, rgba(0,255,64,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.navbar a:hover {
+  background-color: #2b2b2b;
+}
+
+#About_Us {
+  color: white;
+  height: 75%;
+}
+
+#About_Us h1 {
+  font-size: 50px;
+  padding: 0px 575px;
+}
+
+#FAQs {
+  color: white;
+  height: 50%;
+}
+
+#FAQs h1 {
+  font-size: 50px;
+  padding: 0px 475px;
+  width: 30%;
+}
+
+p {
+  font-size: 25px;
+  padding: 0px 400px;
+}
+
+a {
+  text-decoration-line: none;
+  color: #d219d2;
+}
+
+a:hover {
+  color: #00FF40; 
+}
+
