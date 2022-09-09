@@ -5,6 +5,7 @@ html, body {
   width: 99%;
   font-family: 'Teko', sans-serif;
   background-color: black;
+  color: white;
 }
 
 .navbar {
@@ -31,18 +32,17 @@ html, body {
   background-color: #2b2b2b;
 }
 
-#About_Us {
-  color: white;
+#About_Us p {
   height: 75%;
 }
 
 #About_Us h1 {
   font-size: 50px;
   padding: 0px 575px;
+  color: #fafa05;
 }
 
-#FAQs {
-  color: white;
+#FAQs p {
   height: 50%;
 }
 
@@ -50,6 +50,7 @@ html, body {
   font-size: 50px;
   padding: 0px 475px;
   width: 30%;
+  color: #fafa05;
 }
 
 p {
